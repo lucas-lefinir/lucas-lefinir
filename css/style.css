@@ -1,8 +1,13 @@
 body {
-    background-color: cornflowerblue;
+    background-color:#015668;
     text-align: center;
 }
 h1 {
-    color: yellowgreen;
+    color: #fff1cf;
+    font-size: 100px;
+    font-family: 'Roboto Slab', serif;
 }
-p {color: orange;}
+p {
+    color:#ffd369;
+    font-family: 'Raleway', sans-serif;
+}
